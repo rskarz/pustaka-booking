@@ -14,20 +14,20 @@
                 <tr>
                     <th>Kode MTK</th>
                     <th>:</th>
-                    <td><?=$kode:?></td>
+                    <td><?=$kode;?></td>
                 </tr>
                 <tr>
                     <td>Nama MTK</td>
                     <td>:</td>
-                    <td><?=$nama:?></td>
+                    <td><?=$nama;?></td>
                 </tr>
                 <tr>
                     <td>SKS</td>
                     <td>:</td>
-                    <td><?=$sks:?></td>
+                    <td><?=$sks;?></td>
                 </tr>
                 <tr>
-                    <td colspan="3" align="center"> <a href="<?=base_url('matakuliah');?>">Kembali</a></td>
+                    <td colspan="3" align="center"> <a href="<?=base_url('index.php/Matakuliah');?>">Kembali</a></td>
                 </tr>
             </table>
         </center>

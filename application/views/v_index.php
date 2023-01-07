@@ -15,7 +15,7 @@
         maka dapat memodelkan objek lingkaran sebagai kelas model.</p>
 
     <p align='justify'>Sebagai catatan, Semua model harus disimpan di dalam folder application\models</p>
-
+    
     <li>View</li>
     <p align='judtify'>View merupakan bagian yang menangani halaman user interface atau halaman yang muncul pada user(pada browser).
         Tampilan dari user interface di kumpulkan pada view untuk memisahkannya dengan controller dan model sehingga memudahkan

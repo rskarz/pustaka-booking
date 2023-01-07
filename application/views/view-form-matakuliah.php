@@ -3,6 +3,7 @@
         <title>Form Input Matakuliah</title>
     </head>
     <body>
+        <center>
         <form method="post" action="<?php echo base_url(); ?>index.php/Matakuliah/cetak">
         <table>
             <tr>
@@ -38,5 +39,6 @@
             </tr>
         </table>
     </form>
+</center>
     </body>
 </html>
